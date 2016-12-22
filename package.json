@@ -1,4 +1,5 @@
 {   "name": "stylus"
+  , "version": "0.54.0"
   , "scripts": [
       "lib/path.js"
     , "lib/colors.js"
